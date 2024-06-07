@@ -22,4 +22,33 @@ external css
 
    => link will appear as follows in all browser.
 
+   => css =<
+
+   => 1) a:link{
+    <a href="#">
+    color :"pink"
+   }
+
+   => a
+   {
+    backgroundcolor = "blue";
+    color="red";
+
+   }
+
+   => a href="#"
+
+   2)a:link{
+    <a href = "h">
+   }
+   a{
+    backround color :
+    color:
+    
+   }
+
+
+=> html
+
+=> <a href="">You've already visited this link.</a>
 
